@@ -1,0 +1,5 @@
+第三方内存缓存库
+https://github.com/allegro/bigcache
+https://github.com/hypermodeinc/ristretto
+https://github.com/coocood/freecache
+https://github.com/patrickmn/go-cache

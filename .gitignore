@@ -1,0 +1,6 @@
+*.tar.gz
+*.log
+.svn/
+.DS_Store
+.idea/
+.history/
